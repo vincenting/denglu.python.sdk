@@ -22,4 +22,4 @@ base.py 中的 DengLuBase
 
 测试中发现任何错误欢迎随时电邮 <homerdd@gmail.com>
 
-by Vincent Tin
+by Vincent Ting
